@@ -7,3 +7,5 @@ Trabajo Practico Bootstrap:
 
 Presento Trabajo practico utilizando html y bootstrap para crear una pagina web que contiene una barra de navegacion, un titulo junto con una imagen y su respectiva descripcion 
 todo esto utilizando las etiquetas solicitadas en el pdf.
+//////////////////////////////////////////////////////////////
+Trabajo Practico JPA dentro de la carpeta TpaJPAGarciaZacarias
